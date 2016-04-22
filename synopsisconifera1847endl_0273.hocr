@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./synopsisconifera1847endl/synopsisconifera1847endl_0273.png"; bbox 0 0 2197 3649; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 484 1451 1571 1577">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 484 1451 1571 1577">
+     <span class='ocr_line' id='line_1_1' title="bbox 484 1451 1571 1577; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 484 1451 1571 1577; x_wconf 75' lang='lat' dir='ltr'><strong>CONIFERAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 765 1733 1292 1815">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 765 1733 1292 1815">
+     <span class='ocr_line' id='line_1_2' title="bbox 765 1733 1292 1815; baseline 0.002 -4"><span class='ocrx_word' id='word_1_2' title='bbox 765 1733 1292 1815; x_wconf 81' lang='lat' dir='ltr'>FOSSILES.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
